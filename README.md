@@ -193,3 +193,57 @@ Here's how the pieces fit together:
 ---
 
 *This guide was designed to be shared digitally as a PDF or printed as a booklet. The clean layout, visual aids, and step-by-step instructions make it easy to follow while building your storage rack.*
+
+Demonstrating Assembly Flow:
+
+Let's visualize the assembly based on these orientations:
+
+Step 1: You mark your vertical uprights (80" pieces) on all four sides. These will stand vertically in the final structure, oriented with their 1.5" edge facing the front/back.
+
+Step 2 (Building Bays):
+
+Lay two vertical uprights on their side, positioned with their wider face (3.5") facing upwards, parallel to each other, 23.5" apart (outside).
+
+Take your horizontal rails (30" pieces). These will be installed on edge (3.5" dimension vertical).
+
+Apply glue to the ends of the horizontal rails.
+
+Position the ends of the rails against the wider face (3.5") of the uprights at your marked lines. The 30" length of the rail spans the 23.5" gap, with some of the rail end butting against the upright face on each side.
+
+Screw through the upright's wider face (3.5") into the ends of the horizontal rails.
+
+Repeat until you have a completed "bay" which looks like a rectangular ladder frame lying on its side.
+
+Step 3 (Adding Bays):
+
+Stand up your first completed bay frame.
+
+Position a third vertical upright next to the second one. Remember, uprights are oriented with the 1.5" edge front/back.
+
+The distance between the second and third uprights will be 22" (inside measurement).
+
+Now, install the horizontal rails (30" pieces, on edge) between the second and third uprights. Apply glue to the ends of the rails and butt them against the wider face (3.5") of the uprights. Screw through the upright into the rail ends.
+
+Repeat this process, adding the fourth and fifth uprights and the horizontal rails between them until you have five uprights standing parallel, connected by the horizontal rails forming four bays.
+
+Step 4 (Attaching Braces):
+
+Take the long 95.5" braces. These are installed on face (3.5" dimension horizontal).
+
+Apply glue to the ends of the braces.
+
+Place one brace across the tops of all five vertical uprights. The brace will sit on the narrower 1.5" edge of each upright.
+
+Clamp and screw down through the wider face (3.5") of the brace into the narrower 1.5" edge at the top of each upright.
+
+Repeat with another long brace across the bottom of the front, and two more for the back top and bottom. The bottom braces will attach by screwing upwards through the brace's wider face (3.5") into the narrower 1.5" edge at the bottom of each upright.
+
+In Summary of Orientation & Connections:
+
+Vertical Uprights: Stand on 1.5" edge (front/back). Horizontal rails butt against the 3.5" face. Top/Bottom braces sit on the 1.5" edge.
+
+Horizontal Rails: Installed on edge (3.5" dimension vertical). Their ends butt against the 3.5" face of the vertical uprights.
+
+Top/Bottom Braces: Installed on face (3.5" dimension horizontal). Their ends sit on top of (or under) the 1.5" edge of the vertical uprights.
+
+Hopefully, visualizing each piece and its orientation (wide face vs. narrow edge) and then how the ends of one piece meet the side or top/bottom of another helps clarify the assembly process described in the guide. There isn't really an "overlap" of the ends themselves, but rather one piece butting perpendicular into the face or edge of another.
