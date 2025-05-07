@@ -83,6 +83,29 @@
 
 ---
 
+## UNDERSTANDING WOOD ORIENTATION & CONNECTIONS
+
+Getting the 2x4 orientation right is key to a strong rack. A standard 2x4 is actually about 1.5 inches thick by 3.5 inches wide. When assembling, pay attention to whether a piece is oriented "on face" (3.5" side visible) or "on edge" (1.5" side visible).
+
+Here's how the pieces fit together:
+
+* **Vertical Uprights (80" pieces):**
+    * These stand vertically. In the final rack, they are oriented so their **narrower 1.5" edge faces the front or back**. Their **wider 3.5" face points sideways**, towards the next upright.
+    * Horizontal Rails will connect by butting against this **wider 3.5" face**.
+    * Top/Bottom Braces will sit on/under the **narrower 1.5" edge** at the top/bottom.
+
+* **Horizontal Rails (30" pieces):**
+    * These form the shelf supports. They are oriented **on edge**, meaning their **wider 3.5" face is vertical** (up and down), providing maximum strength for holding weight. Their **narrower 1.5" edge is horizontal**.
+    * The **ends** of these rails butt directly against the **wider 3.5" face** of the Vertical Uprights.
+
+* **Top/Bottom Braces (95.5" pieces):**
+    * These long pieces connect the uprights lengthwise at the top and bottom. They are oriented **on face**, meaning their **wider 3.5" face is horizontal** (flat), providing stability across the top/bottom of the uprights. Their **narrower 1.5" edge is vertical**.
+    * The **ends** of these braces sit on top of (or underneath) the **narrower 1.5" edge** of the Vertical Uprights. You screw through the brace into the end of the upright.
+
+**Key Point:** When assembling, pieces primarily connect by the **end of one piece butting perpendicular** against the **face or edge of another piece**. There isn't a significant "overlap" where the ends of two pieces lie flat on top of each other lengthwise.
+
+---
+
 ## ASSEMBLY INSTRUCTIONS
 
 ### STEP 1: Mark the Vertical Uprights
